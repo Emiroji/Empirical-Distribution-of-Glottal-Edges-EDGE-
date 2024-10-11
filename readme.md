@@ -27,7 +27,7 @@ respectively.*
 - [FP07.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP07.mp4)
 - [FP08.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP08.mp4)
 
-#Figure
+## Figures:
 
 These figures show the results of vibratory asymmetry for the remaining subjects that were not included in Fig. 7 of the paper. For reference, Fig. 7 in the paper illustrates the results for the first eight subjects, while the remaining subjects are illustrated here.
 
