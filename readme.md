@@ -1,10 +1,11 @@
 # Supplementary Materials for Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy
 
-https://doi.org/10.1109/JBHI.2024.3462632
 
 This repository contains supplementary materials for the paper titled "Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy"
+## Cite as:
+E. J. Ibarra et al., "Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3462632.
+keywords: {Vibrations;Image edge detection;Pathology;Visualization;Data visualization;Recording;Principal component analysis;Glottal Segmentation;High-Speed Videolaryngoscopy;Vocal Folds;Voice Diseases},
 
-## Graphical Abstract
 
 ![Figure 1: Grafical Abstract](Grafical_Abstract_EDGE.png)
 * Empirical Distribution of Glottal Edges (EDGE) is a statistical method for assessing vocal fold
@@ -14,13 +15,10 @@ these latter two representations, the phase asymmetry (PA) and amplitude asymmet
 between the left and right vocal folds along the anterior-posterior glottal axis are calculated,
 respectively.*
 
-![Figure 2: Results Visualization](images/results.png)
-*Figure 2: Visualization of the key results.*
-
 ## Videos
 
-- [Video1.mp4](link-to-video1)
-- [Video2.mp4](link-to-video2)
+- [FN01.mp4](link-to-video1)
+- [FN02.mp4](link-to-video2)
 
 ## PDFs
 
