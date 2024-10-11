@@ -6,13 +6,13 @@ This repository contains supplementary materials for the paper titled "Empirical
 
 ## Graphical Abstract
 
-![Figure 1: The Empirical Distribution of Glottal Edges (EDGE) is a statistical method for assessing vocal fold
+![Figure 1: Grafical Abstract](Grafical_Abstract_EDGE.png)
+* Empirical Distribution of Glottal Edges (EDGE) is a statistical method for assessing vocal fold
 kinematics using High-Speed Videoendoscopy (HSV). This method includes HSV preprocessing
 and glottal edge detection to estimate global EDGE, conditional EDGE, and left/right EDGE. From
 these latter two representations, the phase asymmetry (PA) and amplitude asymmetry (AA)
 between the left and right vocal folds along the anterior-posterior glottal axis are calculated,
-respectively.](Grafical_Abstract_EDGE.png)
-*Figure 1: Flowchart of the methodology used in the research.*
+respectively.*
 
 ![Figure 2: Results Visualization](images/results.png)
 *Figure 2: Visualization of the key results.*
