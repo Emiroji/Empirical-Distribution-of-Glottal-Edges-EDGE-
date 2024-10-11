@@ -3,8 +3,7 @@
 
 This repository contains supplementary materials for the paper titled "Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy"
 ## Cite as:
-E. J. Ibarra et al., "Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3462632.
-keywords: {Vibrations;Image edge detection;Pathology;Visualization;Data visualization;Recording;Principal component analysis;Glottal Segmentation;High-Speed Videolaryngoscopy;Vocal Folds;Voice Diseases},
+Ibarra EJ, Galindo GE, Alzamendi GA, Cortes JP, Castro C, Manriquez R, Testart A, Zanartu M. Empirical Distribution of Glottal Edges (EDGE): A Statistical Assessment of Vocal Fold Kinematics Using High-Speed Videoendoscopy. IEEE J Biomed Health Inform. 2024. doi: 10.1109/JBHI.2024.3462632.
 
 
 ![Figure 1: Grafical Abstract](Grafical_Abstract_EDGE.png)
