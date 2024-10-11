@@ -27,15 +27,15 @@ respectively.*
 - [FP07.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP07.mp4)
 - [FP08.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP08.mp4)
 
+#Figure
 
-**Figures of Assessment of vibratory asymmetry in clinical cases for subjects not shown in the journal (Supplementary Material)**
+These figures show the results of vibratory asymmetry for the remaining subjects that were not included in Fig. 7 of the paper. For reference, Fig. 7 in the paper illustrates the results for the first eight subjects, while the remaining subjects are illustrated here.
 
-These figures show the results of vibratory asymmetry for the remaining subjects that were not included in Fig. 7 of the paper. For reference, Fig. 7 in the paper illustrates the results for the eight subjects listed in Table I.
-
-![Figure 1: Assessment of Vibratory Asymmetry - Subject 9](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Figures_EDGE_for%20remain_Normal_MTD_VFNs_cases.pdf)
+![Figure: Assessment of Vibratory Asymmetry Subjects ](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Figures_EDGE_for%20remain_Normal_MTD_VFNs_cases.pdf)
 *Figure 1: Assessment of vibratory asymmetry for Subject 9.*
 
 ## Tables:
+These tables (Tables II, III, and IV) provide additional data and results related to the subjects discussed in the main paper. For reference, the main paper includes a subset of the data, and the full set of results is included here in the supplementary material.
 - [Tables.pdf](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Tables_II_III_and_IV.pdf)
 
 
