@@ -35,7 +35,7 @@ These figures show the results of vibratory asymmetry for the remaining subjects
 
 
 ## Tables:
-These tables (Tables II, III, and IV) provide additional data and results related to the subjects discussed in the main paper. For reference, the main paper includes a subset of the data, and the full set of results is included here in the supplementary material.
+These tables (Tables II, III, and IV) are referenced throughout Section III ("Results") of the main paper. They provide detailed individual results, post-hoc analyses, and statistical comparisons not fully presented in the paper.
 - [Tables.pdf](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Tables_II_III_and_IV.pdf)
 
 
