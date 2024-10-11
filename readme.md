@@ -14,7 +14,9 @@ these latter two representations, the phase asymmetry (PA) and amplitude asymmet
 between the left and right vocal folds along the anterior-posterior glottal axis are calculated,
 respectively.*
 
-## Videos
+# Supplementary Materials
+
+## Videos:
 
 - [FN01.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN01.mp4)
 - [FN02.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN02.mp4)
@@ -25,32 +27,15 @@ respectively.*
 - [FP07.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP07.mp4)
 - [FP08.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP08.mp4)
 
-## PDFs
 
-- [Supplementary Information.pdf](link-to-pdf)
-- [Dataset Description.pdf](link-to-pdf)
+**Figures of Assessment of vibratory asymmetry in clinical cases for subjects not shown in the journal (Supplementary Material)**
 
+These figures show the results of vibratory asymmetry for the remaining subjects that were not included in Fig. 7 of the paper. For reference, Fig. 7 in the paper illustrates the results for the eight subjects listed in Table I.
 
+![Figure 1: Assessment of Vibratory Asymmetry - Subject 9](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Figures_EDGE_for%20remain_Normal_MTD_VFNs_cases.pdf)
+*Figure 1: Assessment of vibratory asymmetry for Subject 9.*
 
-PLAYER INFORMATION: 
-Interactive version of section:
-Conditional distribution of glottal edges in clinical cases
-(Sub-section: III. B)
-
-
-FN01.mp4
-FN02.mp4
-FP03.mp4
-FP04.mp4
-FP05.mp4
-FP06.mp4
-FP07.mp4
-FP08.mp4
+## Tables:
+- [Tables.pdf](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Tables_II_III_and_IV.pdf)
 
 
-CONTACT INFORMATION:
-Matias Zañartu, PhD
-Department of Electronic Engineering,
-Universidad Tecnica Federico Santa María, 
-Valparaiso, Chile
-E-mail: matias.zanartu@usm.cl
