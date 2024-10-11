@@ -16,8 +16,8 @@ respectively.*
 
 ## Videos
 
-- [FN01.mp4](link-to-video1)
-- [FN02.mp4](link-to-video2)
+- [FN01.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN01.mp4)
+- [FN02.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN02.mp4)
 
 ## PDFs
 
