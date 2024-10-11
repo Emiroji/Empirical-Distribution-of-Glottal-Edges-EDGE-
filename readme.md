@@ -18,6 +18,12 @@ respectively.*
 
 - [FN01.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN01.mp4)
 - [FN02.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FN02.mp4)
+- [FP03.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP03.mp4)
+- [FP04.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP04.mp4)
+- [FP05.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP05.mp4)
+- [FP06.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP06.mp4)
+- [FP07.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP07.mp4)
+- [FP08.mp4](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Videos/FP08.mp4)
 
 ## PDFs
 
