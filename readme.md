@@ -31,7 +31,7 @@ respectively.*
 
 These figures show the results of vibratory asymmetry for the remaining subjects that were not included in Fig. 7 of the paper. For reference, Fig. 7 in the paper illustrates the results for the first eight subjects, while the remaining subjects are illustrated here.
 
-![Figure: Assessment of Vibratory Asymmetry Subjects ](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Figures_EDGE_for%20remain_Normal_MTD_VFNs_cases.pdf)
+![Figures_EDGE_for remain_Normal_MTD_VFNs_cases.pdf](https://github.com/Emiroji/Empirical-Distribution-of-Glottal-Edges-EDGE-/blob/main/Figures_EDGE_for%20remain_Normal_MTD_VFNs_cases.pdf)
 *Figure 1: Assessment of vibratory asymmetry for Subject 9.*
 
 ## Tables:
