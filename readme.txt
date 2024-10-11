@@ -6,7 +6,7 @@ This repository contains supplementary materials for the paper titled "Empirical
 
 ## Figures
 
-![Figure 1: Flowchart of the Methodology](images/flowchart.png)
+![Figure 1: Flowchart of the Methodology](Grafical_abstract.eps)
 *Figure 1: Flowchart of the methodology used in the research.*
 
 ![Figure 2: Results Visualization](images/results.png)
